@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/hmuchalski/chem-240t/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link to test file](/test-file.html)
+- [./test-file.html](./test-file.html)
+- [/chem-240t/test-file.html](/chem-240t/test-file.html)
 
 ### Markdown
 
