@@ -1,8 +1,6 @@
 ---
-tags: 240T, fall, syllabus
+layout: page
 title: Course Syllabus (CHEM 240T)
-subtitle: "CHEM 240T, Fall 2019"
-author: "Instructor: Hubert Muchalski, Ph.D."
 permalink: /test-file.html
 ---
 
