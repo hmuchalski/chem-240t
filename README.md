@@ -1,5 +1,5 @@
 ---
-title: Title
+layout: page
 ---
 
 ## Welcome to GitHub Pages
