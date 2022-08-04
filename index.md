@@ -1,4 +1,4 @@
 ---
 title: "Home Page"
-permalink: ""
+permalink: /index.html
 ---
