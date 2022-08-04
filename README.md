@@ -1,8 +1,4 @@
----
-layout: page
----
-
-## Welcome to GitHub Pages
+## First Header
 
 You can use the [editor on GitHub](https://github.com/hmuchalski/chem-240t/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
