@@ -5,6 +5,12 @@ subtitle: "CHEM 240T, Fall 2019"
 author: "Instructor: Hubert Muchalski, Ph.D."
 ---
 
+- classics
+- catalytic revolution (Pd, Ni, chiral Brønsted acid)
+- new frontiers
+- review of 128 -> problem sets
+- 
+
 # Course Syllabus (CHEM 240T)
 
 | Course Name  | Strategies and Tactics in Organic Synthesis   |  
