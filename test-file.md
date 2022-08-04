@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Course Syllabus (CHEM 240T)
 permalink: /test-file.html
 ---
