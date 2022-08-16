@@ -87,7 +87,7 @@ Here’s what you will do at each point during the week. All times are Fresno, C
 	- Work on it: Throughout the week
 	- Submit by: Friday 5 pm on Canvas
 
-:::info
+:::success
 **A word about due dates**[^1]
 
 Here is how due dates work in the workplace: They exist, and they’re important. However, there’s a certain amount of flexibility with them. If you need a little longer on something, you email whoever set the deadline and ask if you can have some more time. This is usually not a big deal, but if it happens a lot, people will start asking you if everything is alright.
@@ -100,7 +100,7 @@ One important limit: Class Preps are due before class so that you’re primed an
 
 ## Learning activities and assessments
 
-::info
+:::info
 **The Life of a Problem** Most of this class will center around interesting and deep problems. You will first encounter a problem in *Class Prep*. Before class, you will spend time attempting to solve this problem. You and classmates will help us come to a common understanding of these questions through your *in-class presentations* and discussion. You will write up final solutions in *homework*, and may eventually revise and improve them. They will eventually become *portfolio problems* to showcase your progress. When you are especially proud of your work, you can submit it to the *class journal* too.
 Expect to spend a lot of time on each problem!
 :::
@@ -115,7 +115,7 @@ All assignments will be submitted on Canvas. I will give you feedback via Canvas
 
 ## How to earn a grade in this course
 
-:::warning
+:::danger
 Grading in this course is different than you might be used to. Please read this section carefully and ask questions as needed. 
 :::
 
@@ -125,7 +125,11 @@ As a teacher and learner, I strongly believe that *learning takes time* and that
 The main goal for students in this course is to build a body of work, **a portfolio** of sorts, *that demonstrates understanding* of strategies and tactics in organic synthesis *as well as engagement* with the course. There is not exams to pass, points to earn, etc.
 :::
 
-### Ways to show understanding or organic synthesis
+### To earn an A
+
+Consistently meet almost all of the criteria above missing at most 2 or 3 items including **all boldface criteria**:
+
+#### Ways to show understanding or organic chemistry
 
 - **Write solutions to synthetic problems that meet objectives (after revision).**
 - **Write several exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
@@ -137,7 +141,7 @@ The main goal for students in this course is to build a body of work, **a portfo
 - Give presenters helpful feedback through questions, suggestions, etc.
 - Read others' class journal submissions and use them to improve your writing.
 
-### Ways to show engagement with class
+#### Ways to show engagement with class
 
 - **Complete assigned pre-class work with genuine good-faith effort. Work to make sense of new disconnections, reactions, and mechanisms (even if not fully correct). Try multiple approaches and include errors and comments on your thought process.**
 - **Volunteer to present your work**
@@ -147,6 +151,18 @@ The main goal for students in this course is to build a body of work, **a portfo
 - Be a leader in your groups (there are different ways to demonstrate leadership).
 - Be an active and engaged member of your groups and contribute meaningfully to all group work.
 - Support classmates and help them succeed.
+
+### To earn a B
+
+Frequently meet many of the criteria listed above (missing at most 4 of 5 items) **including all but one of the boldface ones**. Show meaningful progress on many of the criteria you don't fully meet. 
+
+Instead of meeting each criterion consistently, you may meet them frequently: except for one or two instances, and/or you may argue that you’ve started to meet these consistently after not doing so at the start of the semester. 
+
+### To earn a C
+
+Either **meet a few of the criteria consistently** (4--5 total) including at least 2 boldface items *OR* **meet many (10--12) criteria but less often**. Show meaningful progress on a few more.
+
+Do a few things very well and consistently, or do many things fairly well but less often. For example, you might show exemplary work on most problems, but complete few or no presentations. Or, you could meet objectives on several problems (with no exemplary work), present several times, and submit one proposal to the class journal.
 
 ## Class Prep and Research Notebook
 
@@ -235,4 +251,144 @@ You can revise any work or other artifacts before including them in the portfoli
 
 **Grades:** Your portfolio is, ultimately, your chance to show how you’ve met the criteria for a certain grade. Everything you include, and everything you write, should be aimed at that goal. I will read your artifacts and reflections carefully. If you make a convincing case, you’ll earn the grade that you are aiming for!
 
+## Policies and disclaimers
+
+### Attendance and participation
+
+Students are expected to attend and actively participate in all class sessions. During the Zoom calls, students are expected to engage and collaborate with peers on assigned tasks. Outside of the synchronous class time, students are expected to complete reading assignments (Perusall) to prepare for the class and help the instructor shape the lesson plan.
+
+Excuses and exceptions will be interpreted by following university's [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). 
+
+### Late work/make-up policy
+
+Students are expected to attend and actively participate in all class sessions. If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the univeristy policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
+
+### Technology issues when submitting work
+
+For assignments submitted electronically, it is your responsibility to make sure they are submitted on time, through any means necessary, even if technology issues arise. If a tech issue arises, it is your responsibility to find another way to get it to the instructor (for example, via an email attachment). Technology issues that are avoidable or resolved with a simple work-around will not be considered valid grounds for a deadline extension. For example, if you are trying to upload a Lab to Canvas and Canvas won’t accept the file, you should try again later or send the file as an email attachment until you can upload it successfully.
+
+### Academic Integrity and Collaboration[^2]
+
+In this class, we will form a *research community*. Your primary goal in this course is to develop a deep personal understanding and expertise in organic chemistry. Collaboration and cooperation are extremely helpful in the learning process, and we will have many opportunities for collaborative work. However, there are some portions of our class that must be done independently.
+
+This course is subject to the Fresno State course policies and the student code. This document establishes guidelines and expands and clarifies these policies with respect to all work done in CHEM 240T this semester. Be sure to read it carefully and honor it fully.
+
+The student code defines academic misconduct as any action or behavior that misrepresents one’s contributions to or the results of any scholarly product submitted for credit, evaluation, or dissemination. This includes cheating, collusion, dual submission, falsification, and plagiarism.
+
+**Who can I collaborate with?** In CHEM 240T, collaboration is permitted and even encouraged in most circumstances. In particular, your team is a key resource for understanding new ideas. You may only collaborate with students currently enrolled in CHEM 240T.
+
+**Acknowledging collaboration.** In all work, clearly state the name(s) of the person(s) you collaborated with on each problem. If you follow the instructions in this document, this will not harm your grade.
+
+**Specific academic honesty expectations:** The following are guidelines for avoiding academic misconduct in assignments. The list is intended to be helpful but not exhaustive. If you are unsure about the appropriateness of some form of assistance on an assignment, you should always ask me.
+
+- In general, you may work with your teammates on all assignments, as long as you acknowledge them and follow the requirements below (e.g. work only with team members at the same stage of solving the problem, don’t work together on independent problems).
+- On every homework problem, every step of every solution must be one that you understand yourself and that you have generated by thinking about the problem. You are permitted to collaborate on big ideas and hints with classmates, including your team. However, you must always write solutions independently. All collaboration on homework exercises should occur when your collaborators are at essentially the same stage of the problem solution as yourself. In particular, if you have not yet started problem #4 and you ask a friend (who has already completed it), “How did you do problem 4?”, this counts as academic misconduct. The resulting work is not and cannot be considered your own.
+- Some homework problems will not allow collaboration. This helps to ensure that you can work independently to prove key results. In such cases, the only help allowed is consultation with Dr. Muchalski.
+- On all work, unless directly stated otherwise, the only resources you may use are our course textbook and your class notes (including recordings). You are not permitted to go looking for completed solutions to problems in other texts or resources. In particular, use of Internet resources and other textbooks is completely off limits, including homework and daily prep. Often, full solutions are posted online or in another book. If you see a solution, it is impossible for you to claim to have an original solution.
+- Copying a solution, or any part of a solution, from any source (friend, Internet, book, etc.) in any setting, constitutes academic misconduct. 
+- On any assignment, basing your work on the efforts of another student who previously completed this course, or one like it, is considered academic misconduct. Use of any shared or solicited materials, including those posted on Chegg or similar sites, is academic misconduct. Class materials may not be shared beyond other students in this class, including posting your solutions on Chegg or elsewhere.
+- You may not seek the help of an instructor or tutor (other than me) unless you first discuss this with me in advance. If you do not verify that this is acceptable before seeking help, this will be considered academic misconduct. I am always willing to discuss any aspect of the course with you.
+
+**Consequences of academic dishonesty.** Evidence of dishonest behavior on any assignment will result, at a minimum, in not being able to use that work as evidence in your grade check-ins and final portfolio. In severe cases, the minimum penalty will be failure of the course. Peers who willingly assist others in acts of academic misconduct are equally guilty, and will suffer similar penalties. In all cases, violations will be considered according to APM 235 [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
+
+:::info
+**Remember that I want you to be successful.** That is, I want you to develop a deep, personal understanding of the material we study so that you become a better student of mathematics who can go on to do well in all of your future endeavors. Every part of this course structure – including both collaborative work and restrictions on collaboration – are intended to help you with this. You will often struggle, and that’s intentional – struggle (and eventual success!) is essential to learning. Indeed, productively failing (and learning from it) is part of your final grade.
+
+In all aspects of the course, please understand that I am generous with hints and am always willing to discuss problems with you. I will never simply give you an answer, but I will offer direction and guidance that will assist you in coming up with a solution on your own. This is by far the most satisfying way to solve a problem, and the difficulty is well worth it.
+I hope you will make frequent use of my office hours, email, and your team. You are always welcome to discuss your questions or concerns with me at any time.
+:::
+
+### Dropping the course after the census date
+
+A *serious and compelling reason* is defined as an unexpected condition that is not present prior to enrollment in the course that unexpectedly arises and interferes with a student's ability to attend class meetings and/or complete course requirements. The reason must be acceptable to and verified by the instructor of record and the department chair. The condition must be stated in writing on the appropriate form. The student must provide documentation that substantiates the condition.
+
+Failing or performing poorly in a class is not an acceptable "serious and compelling reason" within the University policy, nor is dissatisfaction with the subject matter, class or instructor.
+
+### Plagiarism Detection
+
+The campus subscribes to Turnitin, a plagiarism prevention service, through Canvas. You will need to submit written assignments to Turnitin. Student work will be used for plagiarism detection and for no other purpose. The student may indicate in writing to the instructor that he/she refuses to participate in the plagiarism detection process, in which case the instructor can use other electronic means to verify the originality of their work. Turnitin Originality Reports WILL NOT be available for your viewing. 
+
+### Dispute Resolution
+
+If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter. 
+
+* Chair's name: Dr. Krish Krishnan
+* Department name: Chemistry and Biochemistry
+* Chair's email: krish@csufresno.edu
+* Department phone number: 
+
+### Intellectual Property
+
+All course materials, including but not limited to the syllabus, readings, quiz questions, exam questions, and assignments prepared by the instructor are property of the instructor and University. Students are prohibited from posting course materials online (e.g., Course Hero) and from selling course materials to or being paid for providing materials to any person or commercial firm without the express written permission of the professor teaching this course. Doing so will constitute both an academic integrity violation and a copyright violation. Audio and video recordings of class lectures are prohibited unless I give you explicit permission in advance. Students with an official letter from the Services for Students with Disabilities office may record the class if SSD has approved that service. Otherwise, recordings of lectures are included in the intellectual property notice described above.
+
+### Student Ratings of Instruction
+
+In the final weeks of the semester, you will be asked to complete a short survey to provide feedback about this class. The primary goal of student ratings is to help your instructor improve the class. Feedback will also be reviewed by the department chair and the college dean. You will be given 15 minutes of class time to complete student ratings. Please offer feedback honestly and thoughtfully. Your participation is appreciated. You can access your student rating surveys and get more information at: https://sites.google.com/mail.fresnostate.edu/fresno-state-sri/fssri-for-students.
+
+## COVID Policies
+
+The following sections regarding COVID are subject to change given changing circumstances on-campus and in the community. Please check the COVID website for the most up-to-date information at [covid.fresnostate.edu](https://covid.fresnostate.edu)
+
+### Vaccination
+
+All Students who access Campus/Programs must be Fully Vaccinated (including the booster dose when eligible to receive it) in order to participate in any in-person course-related activities (either on-campus or off-campus). Students may select that they will not be participating in any in-person activities (which includes use of the Library, Student Union and/or Student Health & Counseling Center) and/or may attest to a Medical or Religious Exemption from the vaccine policy requirement in accordance with CSU and campus procedures. Students should go to the Student Portal to update their COVID self-certification form and vaccine documentation. Requests for exemptions can be found there. You are not to come to campus if any of the following are true:
+
+* You are not considered fully vaccinated, and you have not attested to a medical or religious exemption.
+* You have attested to an exemption, but you have not completed your mandatory weekly COVID-19 test. 
+
+Health Screening: Please do not come to campus or off-campus learning site if any of the following is true: 
+
+* If you have experienced COVID-19 symptoms (vaccinated or not). 
+* If you have tested positive within the past 10 days.
+
+Please complete the campus online reporting form (https://covid.fresnostate.edu/cases/reporting.html), and you will then receive further guidance.
+Safety Measures:  While masks will no longer be required, we strongly encourage their use, as face coverings are still a valuable tool in the fight against COVID-19, especially in large group settings. We fully support and respect those who wish to continue wearing face coverings.
+Individuals can pick up face coverings, provided at no cost, at any of the following locations: 
+
+* Library
+* University Student Union
+* Student Health and Counseling Center
+* Student Housing Atrium
+* COVID Testing Site – check the below website for location
+
+Please see university website for the most updated information: [www.fresnostate.edu/coronavirus](https://www.fresnostate.edu/coronavirus)
+
+## University policies and disclaimers
+
+**Students with Disabilities**: Upon identifying themselves to the instructor and the university, students with disabilities will receive reasonable accommodation for learning and evaluation. For more information, contact Services to Students with Disabilities in the Henry Madden Library, Room 1202 (278-2811).
+
+- Class Schedule Policies: [http://fresnostate.edu/studentaffairs/classschedule/policy/][1]
+- Copyright Policy: [http://libguides.csufresno.edu/copyright][2]
+- Students with Disabilities: [http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html][3]
+- Academic Integrity and Honor Code: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf][4]
+- Policy on Cheating and Plagiarism: [http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html][5]
+- Add/Drop Course: [http://www.fresnostate.edu/studentaffairs/registrar/registration/][6]
+- Computer requirements: [https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq][7]
+- Disruptive classroom behavior: [http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf][8]
+
+[1]: http://fresnostate.edu/studentaffairs/classschedule/policy/
+[2]: http://libguides.csufresno.edu/copyright
+[3]: http://fresnostate.edu/studentaffairs/careers/students/interests/disabilities.html
+[4]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/236.pdf
+[5]: http://fresnostate.edu/studentaffairs/studentconduct/policies/cheating-plagiarism.html
+[6]: http://www.fresnostate.edu/studentaffairs/registrar/registration/
+[7]: https://www.fresnostate.edu/catalog/academic-regulations/index.html#computerreq "Computer requirements"
+[8]: http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/419.pdf "Disruptive classroom behavior"
+
+## University Services
+
+- [Associated Students, Inc.][aef8ae07]
+- [Dream Success Center][a7e41318]
+- [Learning Center Information][0896546b]
+- [Student Health and Counseling Center][820f4ac6]
+- [Writing Center][b17a5bde]
+
+[aef8ae07]: http://fresnostateasi.org/ "ASI"
+[a7e41318]: http://fresnostate.edu/studentaffairs/dsc/index.html "Dream Success Center"
+[0896546b]: http://fresnostate.edu/studentaffairs/lrc "Learning center"
+[820f4ac6]: https://www.fresnostate.edu/studentaffairs/health/ "Student Health and Counseling Center"
+[b17a5bde]: http://www.fresnostate.edu/artshum/writingcenter/ "Writing Center"
+
+
 [^1]: Adapted from David Clark's adaptation of Spencer Bangley's snippet about due dates.
+[^2]: Adapted from David Clark's adaptation of Matt Boelkins' policy in his MTH class at Grand Valley State University
