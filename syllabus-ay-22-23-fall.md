@@ -12,17 +12,17 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 | Semester     | 2022 Fall        |  
 | Units        | 3                               |  
 | Department   | Chemistry and Biochemistry      |  
-| Time         | MW 17:00–18:15                 |  
+| Time         | MW 5:00–6:15 pm                |  
 | Location     | Science 1 room 141       |  
 | Instructor   | Dr. Hubert Muchalski            |  
 | Email        | hmuchalski@mail.fresnostate.edu |  
 | Office phone | 559-278-2711                    |  
 | Office       | Science 1, room 352             |  
-| Office hours | TBA  |  
+| Office hours | Monday, 3–4:30 pm; Wed 2-3:30 pm |  
 
 ## Introduction
 
-When you took the sophomore course in organic chemistry, the goal of that cours was to introduce you to compound classes and types of reactions. The course did not focus on how to approach synthesis of complex molecules from readily available starting materials, which is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. 
+When you took the sophomore course in organic chemistry, the goal of that course was to introduce you to compound classes and types of reactions. The course did not focus on how to approach synthesis of complex molecules from readily available starting materials, which is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. 
 
 Topics covered in this course include retrosynthetic analysis (RSA), functional group interconversions, selectivity in synthesis, construction of rings, prediction and control of stereochemistry, cross-coupling reactions, two-direactional synthesis, catalysis, green chemistry and economy of synthesis.
 
@@ -139,7 +139,7 @@ Consistently meet almost all of the criteria listed below, missing at most 2 or 
 #### Ways to show engagement with class
 
 - **Complete assigned pre-class work with genuine good-faith effort. Work to make sense of new disconnections, reactions, and mechanisms (even if not fully correct). Try multiple approaches and include errors and comments on your thought process.**
-- **Volunteer to present your work
+- **Volunteer to present your work**
 - **Volunteer to present a total synthesis case study**
 - Actively participate in discussions (this could take many forms).
 - Complete all work, in and out of class. Actively seek out resources to catch up if you miss class.
@@ -225,6 +225,8 @@ Revise a problem every week! I highly recommend talking with me to make sure you
 ## Portfolio
 
 A portfolio is a carefully curated collection of work that tells a story. Your portfolio will tell the story of you as a scientist and student of organic synthesis from the first day of class to the last. Your goal is to convincingly argue that you have met the criteria for a certain grade. Your portfolio is due at the end of the final exam period, uploaded to Canvas.
+
+==[Click here to read detailed Portfolio Instructions](https://docs.google.com/document/d/1rP99au6EcbWO2yZg4yg4mAY3Ydq2tPFSfN_BkvuFTj8/view)==
 
 ### What should be in the portfolio?
 
