@@ -7,24 +7,24 @@ author: "Hubert Muchalski, Ph.D."
 
 # Course Syllabus (CHEM 240T)
 
-| Course Name  | Strategies and Tactics in Organic Synthesis   |  
-| :----------- | :------------------------------ |  
-| Semester     | 2025 Fall        |  
-| Units        | 3                               |  
-| Department   | Chemistry and Biochemistry      |  
-| Time         | MW 5:00–6:15 pm                |  
-| Location     | Science 1 room 141       |  
-| Instructor   | Dr. Hubert Muchalski            |  
-| Email        | hmuchalski@mail.fresnostate.edu |  
-| Office phone | 559-278-2711                    |  
-| Office       | Science 1, room 352             |  
-| Office hours | Monday, 3–4:30 pm; Wed 2-3:30 pm |  
+| Course Name  | Strategies and Tactics in Organic Synthesis |
+| :----------- | :------------------------------------------ |
+| Semester     | 2025 Fall                                   |
+| Units        | 3                                           |
+| Department   | Chemistry and Biochemistry                  |
+| Time         | MW 5:00–6:15 pm                             |
+| Location     | Science 1 room 143                          |
+| Instructor   | Dr. Hubert Muchalski                        |
+| Email        | hmuchalski@mail.fresnostate.edu             |
+| Office phone | 559-278-2711                                |
+| Office       | Science 1, room 352                         |
+| Office hours | TBD                                         |
 
 ## Introduction
 
 When you took the sophomore course in organic chemistry, the goal of that course was to introduce you to compound classes and types of reactions. The course did not focus on how to approach synthesis of complex molecules from readily available starting materials, which is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. 
 
-Topics covered in this course include retrosynthetic analysis (RSA), functional group interconversions, selectivity in synthesis, construction of rings, prediction and control of stereochemistry, cross-coupling reactions, two-direactional synthesis, catalysis, green chemistry and economy of synthesis.
+Topics covered in this course include retrosynthetic analysis (RSA), functional group interconversion, selectivity in synthesis, construction of rings, prediction and control of stereochemistry, cross-coupling reactions, two-directional synthesis, catalysis, green chemistry and economy of synthesis.
 
 ### Course materials and technology
 
@@ -237,7 +237,7 @@ Students are expected to attend and actively participate in all class sessions. 
 
 ### Late work/make-up policy
 
-If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the univeristy policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
+If you are absent from class, it is your responsibility to check on announcements made while you were away. The course attendance policy follows university’s [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf). Late assignments will not be accepted for a grade unless the absence meets the guidelines set forth by the university policy [APM 232: Policy on Student Absence](http://www.fresnostate.edu/academics/facultyaffairs/documents/apm/232.pdf)
 
 ### Technology issues when submitting work
 
@@ -286,7 +286,7 @@ The campus subscribes to Turnitin, a plagiarism prevention service, through Canv
 
 If there are questions or concerns that you have about this course that you and I are not able to resolve, please feel free to contact the Chair of the department to discuss the matter. 
 
-* Chair's name: Dr. Eric Person (interm chair)
+* Chair's name: Dr. Eric Person (interim chair)
 * Department name: Chemistry and Biochemistry
 * Chair's email: eperson@csufresno.edu
 
@@ -340,7 +340,7 @@ The following University policies can be found on the web:
 
 ## Emergency Information
 
-In the event of an emergency, everyone in the campus community becomes a partner in the response. To ensure you are prepared and remain calm you must make yourself familiar with campus protocols. To contact the Fresno State Police Department call 559.278.8400 from your cell phone or 911 from a campus phone. Prior to an emergency, assess your environment for options depending on the emergency. Identify all possible exit routes, in an emergency always use the closest most safe exit. Once you exit the building go to the predetermined evacuation assembly point, if that is unavailable then go to an open safe space away from the emergency. Identify where and how you can secure yourself inside if you need to shelter in place or hide from a threat. Be prepared to help guide those around you and assist individuals who may be in need. Additional information can be found at www.fresnostate.edu/emergency
+In the event of an emergency, everyone in the campus community becomes a partner in the response. To ensure you are prepared and remain calm you must make yourself familiar with campus protocols. To contact the Fresno State Police Department call 559.278.8400 from your cell phone or 911 from a campus phone. Prior to an emergency, assess your environment for options depending on the emergency. Identify all possible exit routes, in an emergency always use the closest most safe exit. Once you exit the building go to the predetermined evacuation assembly point, if that is unavailable then go to an open safe space away from the emergency. Identify where and how you can secure yourself inside if you need to shelter in place or hide from a threat. Be prepared to help guide those around you and assist individuals who may be in need. Additional information can be found at [http://www.fresnostate.edu/adminserv/emergency/](http://www.fresnostate.edu/adminserv/emergency/).
 
 ## Acknowledgments
 
