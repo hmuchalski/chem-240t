@@ -22,15 +22,13 @@ author: "Hubert Muchalski, Ph.D."
 
 ## Introduction
 
-When you took the sophomore course in organic chemistry, the goal of that course was to introduce you to compound classes and types of reactions. The course did not focus on how to approach synthesis of complex molecules from readily available starting materials, which is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. 
-
-Topics covered in this course include retrosynthetic analysis (RSA), functional group interconversion, selectivity in synthesis, construction of rings, prediction and control of stereochemistry, cross-coupling reactions, two-directional synthesis, catalysis, green chemistry and economy of synthesis.
+Topics covered in this course include retrosynthetic analysis (RSA), functional group interconversion, selectivity in synthesis, construction of rings, prediction and control of stereochemistry, cross-coupling reactions, two-directional synthesis, catalysis, green chemistry and economy of synthesis Previous organic chemistry courses you might have focused on introducing compound classes and types of reactions. The course likely did not focus on how to approach synthesis of complex molecules, which is fundamental to the development of new medicines, agrochemicals, plastics, dyestuffs, etc. 
 
 ### Course materials and technology
 
 - **Textbook:** Any college-level organic chemistry textbook, and any edition, will work. Electronic textbooks such as OpenStax version of [McMurry's *Organic Chemistry*](https://openstax.org/details/books/organic-chemistry?Book%20details) will work but they can be difficult to navigate, i.e., you can't quickly flip pages back and forth.
 - **Canvas:** The central repository for all course materials and information is our Canvas site, accessible through [https://fresnostate.instructure.com/courses/110725/](https://fresnostate.instructure.com/courses/110725/). The Canvas site will house assignments, grades, and links to materials/resources.
-- **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices are inferior or incompatible with the software we will use.
+- **Personal computer:** You will need a x86 class personal computer that can run standalone desktop applications. Mobile devices are inferior or incompatible with some software we will use, namely ChemDraw. 
 - **ChemDraw** is available for registered Fresno State students. You will use ChemDraw to prepare revised (clean) solutions to homework problems. 
 - **Document scanning tool**: Assignments in this course are designed to be prepared by hand on paper and turned in as a PDF file. There are number of options available for both iOS and Android. Find one that you like and learn how to use it.
 - **Zoom:** Virtual meetings (if any) will be held via Zoom. Links and passwords to zoom meetings will be published on Canvas.
@@ -47,41 +45,53 @@ This course is a continuation of sophomore organic chemistry course (CHEM 128 se
 
 ## Course-level learning objectives
 
-This course is a study of organic chemistry in the context of multi-step synthesis of complex small molecules (<1000 Da). After successful completion of the course, students will be able to:
+This course is a study of multi-step synthesis of organic small molecules (<1000 Da). After successful completion of the course, students will be able to:
 
 1. Communicate the structure and reactivity of organic molecules using drawing and naming notation and using effective oral communication.
-2. Weigh the issues of chemoselectivity, regioselectivity, and stereoselectivity in synthetic design by identifying steric, electronic, and stereoelectronic effects that influence outcome of reactions
+2. Weigh the issues of chemo-, regio-, and stereoselectivity in synthetic design by recognizing steric, electronic, and stereoelectronic effects that direct outcome of chemical reactions. 
 3. Navigate the landscape of organic reactions by proposing and evaluating synthetic plans, and making connections between reactions and their mechanisms. 
 4. Demonstrate organic synthesis skills through planning, execution, troubleshooting of multi-step synthetic sequences. Identify flaws in synthetic plans by recognizing selectivity or efficiency issues. 
 5. Read and follow research articles on total syntheses of natural products and identify strategies and tactics that allow chemists to construct complex molecules.
 
 ### Student-centered objectives
 
-These are the overarching university goals for this class. We will break these down into more specific objectives throughout the semester. In addition to everything above, we will focus on some important objectives that go beyond this class. Specifically, I want you to...
+The list above is very general and each objective has a broad scope (course-level). We will break these down into more specific objectives that we will focus throughout the semester. But content is only one dimension of the studies you will undertake. In addition to the list above you will:
 
-- Develop a deep understanding of the ideas outlined above. You can expect me to push you in many ways to help you achieve these. As a result, this class will not be easy, but that’s good: You learn by struggling!
-- Learn to write and present in a manner that further improves your scientific communication skills. We will work on this in almost every aspect of class. Particularly important are your homework, portfolio, and the class journal, which will be written to a professional standard, as well as in-class presentations. 
-- Learn chemistry from a new point of view. This includes a deep knowledge of reactions and their mechanisms. It also involves learning the why of the historical and modern development of organic synthesis, and understanding the importance of this field in biology, material science, and medicine. 
+- Develop a deep understanding of the big ideas in organic synthesis (efficiency, selectivity, retrosynthesis).
+- Learn to communicate technical knowledge in a manner expected of a graduate student in chemical sciences. Particularly important are your homework, portfolio, and the class journal, which will be written to a professional standard, as well as in-class presentations. 
+- Learn chemistry from a new point of view and gain historical of developments in organic chemistry, and understanding the importance of this field in biology, material science, and medicine.
 
 The goal of this course is not to cover all strategies and tactics used in organic synthesis but to provide opportunities for development of a skill which you need as a graduate student: to quickly learn complex and unfamiliar science topics to the degree that you can teach them to others. Therefore, active participation in class discussions is key to getting the most out of this class. Expect to be at the board frequently to discuss synthetic and mechanistic problems. Don't be concerned if you feel weak in some areas. The goal is to identify those areas to strengthen your understanding and refine thinking process. This means that it is of utter importance that you come to class prepared.
 
 ## Course workflow
 
-Part of doing chemistry is productive failure: You’ll try things that don’t work; learn something from that failure; and try something new that hopefully works better. After a while, you will figure it out, and come out with a much stronger understanding of what organic chemistry is, and why we insist on teaching it to future health professionals.
+<!-- Part of doing chemistry is productive failure: You’ll try things that don’t work; learn something from that failure; and try something new that hopefully works better. After a while, you will figure it out, and come out with a much stronger understanding of what organic chemistry is, and why we insist on teaching it to future health professionals. -->
 
 > [!NOTE]
 > Our class meetings are in the late afternoon when energy levels can be low and attention depleted. To reduce the risk of putting students to sleep, formal lectures will be reduced to minimum. Instead, this course will be ran according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, videos, class prep, etc.). Class time is repurposed for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
 
+In the table below, `n` is the week number, starting with the first week of classes. The course is divided into 15 weeks, with each week focusing on a specific topic. 
 
-| Day       | Focus                      | Assignment Due            |
-| :-------- | :------------------------- | :------------------------ |
-| Monday    | Class discussion of drafts | Class Prep A              |
-| Tuesday   | Class Prep draft           | —                         |
-| Wednesday | Class discussion of drafts | Class Prep B              |
-| Thursday  | Problem ChemDraw Homework  | New Class Prep Set posted |
-| Friday    | Problem ChemDraw Homework  | Problem Write-up          |
-| Saturday  | Class Prep & Portfolio     | —                         |
-| Sunday    | Class Prep & Portfolio     | —                         |
+- Problem Set (PS) = a set of problems we will focus on that week.
+- Class Prep (CP) = your attempt at solving the problems before class.
+- Homework (HW) = a formal write-up (in ChemDraw) of problems from PS (or a subset of them).
+- `l` is the previous week
+- `m` is the current week
+- `n` is the next week
+- `o` is the week after next
+
+| Day       | What happens                 |
+| :-------- | :--------------------------- |
+| Friday    | PS(n) available, CP(m) due   |
+| Saturday  | Work on HW(l), CP(n)         |
+| Sunday    | Work on HW(l), CP(n)         |
+| Monday    | PS(m) discussion, HW (l) due |
+| Tuesday   | Work on HW(m) and CP(n)      |
+| Wednesday | PS(m) discussion cont'd      |
+| Thursday  | Work on HW(m) and CP(n)      |
+| Friday    | PS(o) available, CP(n) due   |
+| Saturday  | Work on HW(m), CP(o)         |
+| Sunday    | Work on HW(m), CP(o)         |
 
 
 >[!IMPORTANT]
@@ -93,7 +103,7 @@ Part of doing chemistry is productive failure: You’ll try things that don’t 
 > 
 > If extenuating circumstances cause you to miss multiple assignments, please come to office hours to discuss broader accommodations. I’ll be flexible, but I need to know the context so that we can find the best way moving forward.
 >
-> One important limit: Class Preps are due before class so that you’re primed and ready for the class discussion and I can choose presenters. For that reason, Class Preps absolutely must be done before class. If you need a little more time than the standard deadline let me know.
+> **One important limit**: Class Preps are due before class so I can review the work, give you feedback and that you’re prepared for class discussion (and I can choose presenters). For that reason, Class Preps absolutely must be done before class. If you need a little more time than the standard deadline let me know.
 
 ## Learning activities and assessments
 
@@ -121,49 +131,51 @@ Consistently meet almost all of the criteria (and **all boldface criteria**), mi
 
 #### Ways to show understanding or organic chemistry
 
-- **Write high quality solutions to synthetic problems that meet objectives (after revision).**
+- **Write high quality solutions to synthetic problems that meet objectives (after revision, if needed).**
 - **Write several exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
-- **Demonstrate deep understanding of these topics: retrosynthetic analysis, chemoselectivity, regioselectivity, stereoselectivity, green chemistry.**
-- Draw mechanisms and use curved arrow electron-pushing formalism to explain reaction outcomes and selectivity.
-- Find and use connections between ideas and concepts (in problems, presentations, research articles, and other places).
-- Share your ideas by giving presentations or writing class journal entries that clearly communicate your thinking process.
+- **Demonstrate deep understanding of synthetic planning process (retrosynthesis) as well as chemo-, regio-, and stereoselectivity issues.**
+- Demonstrate understanding of the *12 Principles of Green Chemistry* and how they apply to synthetic planning and execution.
+- Demonstrate understanding of how reactions occur, by drawing mechanisms using curved arrow electron-pushing style to explain reaction outcomes and selectivity.
+- Find connections between ideas and concepts (in problems, presentations, research articles, and other places).
+- Share your work by giving presentations or writing class journal entries that clearly communicate your thinking process.
 - When presenting, give helpful answers to questions. When in audience, give presenters helpful feedback, ask questions.
 
 #### Ways to show engagement with class
 
 - **Complete assigned pre-class work with good-faith effort. Work to make sense of new synthetic disconnections, reactions, and mechanisms (even if not fully correct). Try multiple approaches, include failed attempts, and comments on the thinking process.**
-- **Volunteer to present your work**
-- **Volunteer to present a total synthesis case study**
+- **Volunteer to present your Class Prep work.**
+- **Volunteer to present a total synthesis case study.**
 - Actively participate in discussions (this could take many forms).
 - Complete all work, in and out of class. Actively seek out resources to catch up if you miss class.
-- Be a leader in your groups (there are different ways to demonstrate leadership).
+- Be a leader in your groups (big and small). There are different ways to demonstrate leadership.
 - Support classmates and help them succeed.
 
 ### To earn a B
 
-Consistently meet almost all of the criteria (and **all boldface criteria**), missing at most 2 items:
-
-Frequently meet many of the criteria (**including all but one of the boldface ones**) listed above (missing at most 4 items) and *show meaningful progress on many of the criteria you don't fully meet*. 
+Frequently meet many of the criteria (and **all but one of the boldface criteria**) listed above (missing at most 4 items) and *show meaningful progress on many of the criteria you don't fully meet*. 
 
 Instead of meeting each criterion consistently, you may meet them frequently: except for one or two instances, and/or you may argue that you’ve started to meet these consistently after not doing so at the start of the semester. 
 
 ### To earn a C
 
-Either **meet a few of the criteria consistently** (4--5 total) including at least 2 boldface items *OR* **meet many (10--12) criteria but less often**. Show meaningful progress on a few more.
+Either meet *a few of the criteria consistently* (4--5 total, **and at least 2 boldface items** OR *meet many (10--12) criteria but less often*. Show meaningful progress on a few more.
 
-Do a few things very well and consistently, or do many things fairly well but less often. For example, you might show exemplary work on most problems, but complete few or no presentations. Or, you could meet objectives on several problems (with no exemplary work), present several times, and submit one proposal to the class journal.
+Do a few things very well and consistently, or do many things fairly well but less often. For example, you might show exemplary work on most problems, but complete few or no presentations. Or, you could meet objectives on several problems (with no exemplary work), present several times, etc.
+
+>[!NOTE]
+> This is a graduate-level course and grade B is the minimum expected (passing) grade. Please let me know if you are struggling to meet the criteria for a B. I will work with you to help you succeed.
 
 ## Class Prep and Research Notebook
 
 ### Description and Purpose 
 
-A new set of problems, focusing on specific topics, will be posted weekly on Thursday. Your goal is to attempt to solve these problems before the next class or make as much progress as possible. This will ensure that you are ready to take an active part in our class presentations and discussions. The research notebook is a place to keep and organize your notes on reading material, research, and drafts of problems. 
+A new set of problems, focusing on specific topics, will be posted weekly by Friday. Your goal is to attempt to solve these problems before the class or make as much progress as possible. This will ensure that you are ready to take an active part in our class presentations and discussions. The research notebook is a place to keep and organize your notes on reading material, research, and drafts of problems. 
 
-In short, I’m asking you to attempt big, real, difficult problems before class. *This is not easy!* But, it’s also as real as chemistry gets. You will learn what to do when you don’t know what to do; how to find and try multiple approaches; the benefits of collaborating in order to generate new ideas and understand old ones; and how past mistakes can help you improve in the future.
+In short, I’m asking you to attempt big, real, difficult problems before class. *This is not easy!* But, it’s also as real as synthetic organic chemistry gets. You will learn what to do when you don’t know what to do; how to find and try multiple approaches; the benefits of collaborating in order to generate new ideas and understand old ones; and how past mistakes can help you improve in the future.
 
-Think of Class Prep as a demonstration of effort. Show that you committed to understanding and solving the required problems *but it’s OK if this work contains errors*. The goal is to be prepared. 
+Think of Class Prep as a demonstration that you studied the topic, and to show that you are committed to understanding and solving the required problems. *Correctness is not a factor---it’s OK if this work contains errors.* The goal is to be prepared. 
 
-Class Prep work should take quite a while: Up to 50% of your out-of-class time should be devoted to working on these new problems. Start as soon as the problems are posted.
+Class Prep work should take most of the time allocated to this course. Start as soon as the problems are posted.
 
 **Research notebook**. You will need a way to keep handwritten notes organized. I suggest a bound notebook or a 3-ring binder that is dedicated to this class. Keep all of your Class Prep work together, dated and ordered, so that stuff it’s easy to find. You will often refer to your past work, so it’s important to keep it organized. I may occasionally ask to see your research notebook, to ensure it is complete and organized.
 
@@ -171,15 +183,14 @@ Class Prep work should take quite a while: Up to 50% of your out-of-class time s
 
 Look up the reading and problems in Canvas. Read the text carefully, for full understanding. If there are new reactions or mechanisms, create examples to help you understand them. For each problem:
 
-- Start each problem on a new page in your research notebook. Label with the full problem number and statement, and the date.
-- Work to solve the problem or propose the synthesis. This is a rough draft, aim to fully understand the ideas, but you can write in a unstructured format that identifies the key steps and ideas. Formal communication is not required, but aim to be thorough (make it easy for your future self to understand).
-- Keep your mistakes! This process of understanding and attempting to solve new problems will involve many dead ends. Never erase your mistakes: Just put an “X” next to any idea which seems to be wrong, and write a comment explaining why you believe it is wrong. These comments will be useful in the future.
-- When done, scan and upload your Class Prep work to Canvas by the due date. 
+- Start each problem on a new page, label with the full problem number/statement, and the date. Better yet, copy the problem on the answer page. 
+- Work to solve the problem or propose the synthesis. This is a draft---aim to understand the ideas and don't feel constrained by the format and style. 
+- Include comments and notes (in text) that will help me (and your future self)understand these unstructured notes and follow along. 
+- Keep your mistakes! Don't erase anything. Sooner or later you will realize that your proposed synthesis leads to a dead end. If you realized the synthesis will not work, acknowledge, annotate, and try again. Don't erase! Write a comment explaining why you believe the reaction will not work and propose something better. These comments will help me understand your thinking process and will help you when you review your work later.
+- When done, scan and upload your Class Prep work to Canvas by the due date. In the “Comments” text box, indicate which problems (if any) you would be willing to present in class. 
 
 >[!NOTE] Collaboration with others
 > You are allowed to collaborate with other on Class Prep problems but you must give credit next to ideas and key insights. See Academic Integrity section below for details. 
-
-In the “Comments” text box, indicate which problems (if any) you would be willing to present in class. See Presentations and the Class Journal for details.
 
 ## Presentations and the Class Journal
 
@@ -189,36 +200,40 @@ A central part of this class is sharing your ideas with classmates. You can do t
 
 When you submit your Class Prep assignment, indicate which problems you are willing to present in class and be ready to present your solution when called. I will select presenters based on who has volunteered, and who has presented the least recently. I may ask multiple students to present, if their solutions are different or illustrate interesting issues. It's likely that **you will not present every time you volunteer**.
 
-The goal of a presentation is to communicate your understanding of an idea in a helpful way, and to create discussions that help everyone understand it better. Correctness and clear communication are equally important. Mistakes and the discussions following them are some of the most valuable ways for everyone to learn!
+The goal of a presentation is to communicate your understanding of an idea in a helpful way, and to create discussions that help everyone understand it better. Correctness and clear communication are equally important. Mistakes and the discussions following them are some of the most valuable ways for everyone to learn! (See the section about grading for more details.)
 
 >[!TIP] How to volunteer to present?
 > Before you submit your Class Prep assignment, leave a comment in the text box indicating which problems you are willing to present in class. 
 
-### Publish in the Class Journal
+## Formal problem write-ups (ChemDraw homework)
 
-The Class Journal is a document where we will collaboratively create professionally written solutions to every problem we do. I will post a list of all problems that are open for Class Journal submissions. Here's how you submit your work:
+I will select problems from the weekly set and assign as a formal write-up. Your task will be to compose a correct, complete, convincing, and clear solutions to the selected problems. This should be based on your own Class Prep work, presentations, and class discussions. 
 
-You may “claim” an open problem by emailing me. I will add your name and the date on the list and you will have 1 week to submit an high-quality solution. You may only have one problem claimed at a time. Just like with presentations, if more than one person claims a problem at the same time, I will choose based on who has completed fewer presentations and journals. 
-
-I will review your submission and choose whether to accept it. Journal problems must be fully correct and illustrate excellent communication. To achieve this, I might ask you to make revisions before accepting your work. 
-
-## Formal problem write-ups
-
-I will select several problems from the weekly set and assign as a formal write-up. Your task will be to compose a correct, complete, convincing, and clear solutions (synthetic proposals) to the selected problems. This should be based on your own Class Prep work, presentations, and discussions. The formal write up may include short essays on a topic related to the problem. 
-
-Your work should meet the objectives listed in the assignment--each homework assignment will list some specific “focus” objectives. These will help you practice different aspects of communication throughout the semester. Homeworks must be prepared as ChemDraw documents (templates will be available on Canvas).
-
-Each homework set will have specific instructions about collaboration. You may always talk with me about problems. See “Academic Integrity” for more details. 
+Your work should meet the objectives listed in the assignment and there may be a different focus on different weeks. These will help you practice different aspects of communication throughout the semester. Homeworks must be prepared as ChemDraw documents (templates will be available on Canvas).
 
 ### Revisions of homework assignments
 
-You may revise your work on one homework problems with some limitations. On each revision, include a reflection that summarizes and explains why your work received a lower mark. Then explain what you did to improve your understanding (be specific!), and how you have demonstrated that in this revision. 
+You may revise and resubmit homework problems with some limitations: 
+
+1. You may submit one revision per week.
+2. The revision must be submitted within 1 week of receiving feedback.
+3. Work that received a mark of `non assessable` is ineligible for revision.
+4. The revision must include a reflection that explains why your work received a lower mark, what you did to improve (be specific!), and how you have demonstrated that in the revised version. 
 
 >[!CAUTION]
-> The reflection is and integral part of the revision. Without it, your revision is incomplete and won’t be reviewed. If your progress didn’t meet the objectives, there was a major reason and you must explain. In synthesis, even “small” things can make a major difference. 
+> The reflection is and integral part of the revision. Without it, your revision is incomplete and won’t be marked. If your progress didn’t meet the objectives, there was a major reason and you must explain. In synthesis, even “small” things can have a major consequences. 
  
 >[!TIP]
 Work on revisions on a regular basis. Talk to the professor to make sure you understand the feedback before submitting a revision. 
+
+### Publish in the Class Journal
+
+I will post a list of all problems that are open for Class Journal submissions. 
+You may “claim” a problem by emailing me. I will add your name and the date on the list and you will have 1 week to submit an high-quality solution. The formal write up may include short essays on a topic related to the problem. 
+
+You may only have one problem claimed at a time. Just like with presentations, if more than one person claims a problem at the same time, I will choose based on who has completed fewer journals. 
+
+I will review your submission and choose whether to accept it. Journal problems must be fully correct and illustrate excellent communication. To achieve this, I might ask you to make revisions before accepting your work. 
 
 ## Portfolio
 
@@ -269,7 +284,7 @@ The student code defines academic misconduct as any action or behavior that misr
 [!NOTE] I want you to succeed!
 >I want you to develop a deep, personal understanding of the material we study so that you become a better student of mathematics who can go on to do well in all of your future endeavors. Every part of this course structure – including both collaborative work and restrictions on collaboration – are intended to help you with this. You will often struggle, and that’s intentional – struggle (and eventual success!) is essential to learning. Indeed, productively failing (and learning from it) is part of your final grade.
 
-In all aspects of the course, please understand that I am generous with hints and am always willing to discuss problems with you. I will never simply give you an answer, but I will offer direction and guidance that will assist you in coming up with a solution on your own. This is by far the most satisfying way to solve a problem, and the difficulty is well worth it.
+In all aspects of the course, I am happy to discuss chemistry with you. I will never simply give you an answer, but I will offer direction and guidance that will assist you in coming up with a solution on your own. This is by far the most satisfying way to solve a problem, and the struggle is worth it.
 I hope you will make frequent use of my office hours and your peers. You are always welcome to discuss your questions or concerns with me at any time.
 
 ### Dropping the course after the census date
