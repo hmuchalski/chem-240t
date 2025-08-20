@@ -129,7 +129,7 @@ As an aspiring scientist you already know that good data comes from multiple mea
 
 Consistently meet almost all of the criteria (and **all boldface criteria**), missing at most 2 items:
 
-#### Ways to show understanding or organic chemistry
+*Ways to show understanding or organic chemistry*
 
 - **Write high quality solutions to synthetic problems that meet objectives (after revision, if needed).**
 - **Write several exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
@@ -140,7 +140,7 @@ Consistently meet almost all of the criteria (and **all boldface criteria**), mi
 - Share your work by giving presentations or writing class journal entries that clearly communicate your thinking process.
 - When presenting, give helpful answers to questions. When in audience, give presenters helpful feedback, ask questions.
 
-#### Ways to show engagement with class
+*Ways to show engagement with class*
 
 - **Complete assigned pre-class work with good-faith effort. Work to make sense of new synthetic disconnections, reactions, and mechanisms (even if not fully correct). Try multiple approaches, include failed attempts, and comments on the thinking process.**
 - **Volunteer to present your Class Prep work.**
