@@ -1,8 +1,6 @@
-## Welcome!
+# README
 
-You can use the [editor on GitHub](https://github.com/hmuchalski/chem-240t/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This repository contains the course materials for CHEM 240T: Strategies and Tactics in Organic Synthesis. The materials include:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-- [./test-file.html](./test-file.html)
-- [/chem-240t/test-file.html](/chem-240t/test-file.html)
+- [Syllabus](./syllabus-240t-ay-25-26-fall.md)
+- Problem sets
