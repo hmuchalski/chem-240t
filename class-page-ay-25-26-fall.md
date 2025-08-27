@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Class Page AY 25-26 Fall
 permalink: /class-page-ay-25-26-fall.html
 author: "Instructor: Hubert Muchalski, Ph.D."
----
+--- -->
 
 # CHEM 240 Class Live Page (Fall AY 25-26)
 
@@ -13,15 +13,15 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 ## Problem Sets
 
-- Problem Set 2 ([PDF](https://drive.google.com/file/d/1fQRZ1Ej3Yrd53tVlTeHclXPG6yGxRFY3/view?usp=sharing) | [CDXML](https://drive.google.com/uc?export=download&id=11uaSkjzcIt_ZRqNoPr-Am9c1MANCXOwz))
-- Problem Set 3 ([PDF](https://drive.google.com/file/d/1n33REW1DqAzaa2__Mc4X9Gr5avIjtG7b/view?usp=sharing) | [CDXML](https://drive.google.com/uc?export=download&id=11rCAGgDuCSDVakvufSd92td0ODZr2eKB))
-- Problem Set 4 ([PDF]() | [CDXML]()) 
-- Problem Set 5 ([PDF]() | [CDXML]())
-- Problem Set 6 ([PDF]() | [CDXML]())
-- Problem Set 7 ([PDF]() | [CDXML]())
-- Problem Set 8 ([PDF]() | [CDXML]())
-- Problem Set 9 ([PDF]() | [CDXML]())
-- Problem Set 10 ([PDF]() | [CDXML]())
+- Problem Set 2 ([PDF](https://drive.google.com/file/d/1fQRZ1Ej3Yrd53tVlTeHclXPG6yGxRFY3/view?usp=sharing) or [CDXML](https://drive.google.com/uc?export=download&id=11uaSkjzcIt_ZRqNoPr-Am9c1MANCXOwz))
+- Problem Set 3 ([PDF](https://drive.google.com/file/d/1n33REW1DqAzaa2__Mc4X9Gr5avIjtG7b/view?usp=sharing) or [CDXML](https://drive.google.com/uc?export=download&id=11rCAGgDuCSDVakvufSd92td0ODZr2eKB))
+- Problem Set 4 ([PDF]() or [CDXML]()) 
+- Problem Set 5 ([PDF]() or [CDXML]())
+- Problem Set 6 ([PDF]() or [CDXML]())
+- Problem Set 7 ([PDF]() or [CDXML]())
+- Problem Set 8 ([PDF]() or [CDXML]())
+- Problem Set 9 ([PDF]() or [CDXML]())
+- Problem Set 10 ([PDF]() or [CDXML]())
 
 
 ## Links to materials from the web
