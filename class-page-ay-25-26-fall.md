@@ -53,3 +53,35 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 [9]: https://youtu.be/BLKqbC_QIZA "Acidity: Crash Course Organic Chemistry #11"
 [10]: https://youtu.be/R3PLq3dOqv4 "Nucleophiles and Electrophiles: Crash Course Organic Chemistry #12"
 [11]: https://youtu.be/j04zMFwDeDU "Alcohols, Ethers, and Epoxides: Crash Course Organic Chemistry"
+
+## Class meeting notes
+
+### Wednesday, August 21
+
+We discussed the course syllabus and expectations. 
+
+### Monday, August 26
+
+We discussed the first half of Problem Set 2. 
+
+- Reviewed the Brønsted-Lowry acid-base theory and how it applies to organic chemistry. W learned a process of selecting a base for deprotonating different types of acids (e.g., alcohols, alkynes, amines, etc.).
+- Clarified the meaning of symbols and terminology used in organic synthesis such as the retrosynthetic arrow, how retrosynthetic schemes should be read, and the meaning of "regioselective" and "stereoselective".
+- We reviewed some of the common functional group interconversions (FGICs) organic halides, alcohols, and alkenes.
+
+<!-- ## Wednesday, August 28
+
+We discussed the second half of Problem Set 2.
+
+- 
+
+### Monday, September 1
+
+### Wednesday, September 3
+
+### Monday, September 8
+
+### Wednesday, September 10
+
+### Monday, September 15
+
+### Wednesday, September 17 -->
