@@ -36,7 +36,6 @@ This course is a continuation of sophomore organic chemistry course (CHEM 128 se
 - use curved arrow notation to depict reaction mechanisms
 - analyze bonding and its consequences on molecular structure and reactivity
 - recognize the major classes of organic transformations (addition, substitution, elimination, metathesis, rearrangement)
-- 
 
 ## Course-level learning objectives
 
@@ -65,29 +64,22 @@ The goal of this course is not to cover all strategies and tactics used in organ
 > [!NOTE]
 > Our class meetings are in the late afternoon when energy levels can be low and attention depleted. To reduce the risk of putting students to sleep, formal lectures will be reduced to minimum. Instead, this course will be ran according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, videos, class prep, etc.). Class time is repurposed for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
 
-In the table below, `n` is the week number, starting with the first week of classes. The course is divided into 15 weeks, with each week focusing on a specific topic. 
-
-- Problem Set (PS) = a set of problems we will focus on that week.
-- Class Prep (CP) = your attempt at solving the problems before class.
-- Homework (HW) = a formal write-up (in ChemDraw) of problems from PS (or a subset of them).
-- `l` is the previous week
-- `m` is the current week
-- `n` is the next week
-- `o` is the week after next
-
-| Day       | What happens                 |
-| :-------- | :--------------------------- |
-| Friday    | PS(n) available, CP(m) due   |
-| Saturday  | Work on HW(l), CP(n)         |
-| Sunday    | Work on HW(l), CP(n)         |
-| Monday    | PS(m) discussion, HW (l) due |
-| Tuesday   | Work on HW(m) and CP(n)      |
-| Wednesday | PS(m) discussion cont'd      |
-| Thursday  | Work on HW(m) and CP(n)      |
-| Friday    | PS(o) available, CP(n) due   |
-| Saturday  | Work on HW(m), CP(o)         |
-| Sunday    | Work on HW(m), CP(o)         |
-
+| Problem Set | Posted | CP due | HW due |
+| :---------- | :----- | ------ | ------ |
+| PS2         | 8/22   | 8/25   | 9/1    |
+| PS3         | 8/22   | 8/29   | 9/8    |
+| PS4         | 8/29   | 9/5    | 9/15   |
+| PS5         | 9/5    | 9/12   | 9/22   |
+| PS6         | 9/12   | 9/19   | 9/29   |
+| PS7         | 9/19   | 9/26   | 10/6   |
+| PS8         | 9/26   | 10/3   | 10/13  |
+| PS9         | 10/3   | 10/10  | 10/20  |
+| PS10        | 10/10  | 10/17  | 10/27  |
+| PS11        | 10/17  | 10/24  | 11/3   |
+| PS12        | 10/24  | 10/31  | 11/10  |
+| PS13        | 10/31  | 11/7   | 11/17  |
+| PS14        | 11/7   | 11/14  | 11/24  |
+| PS15        | 11/14  | 11/21  | 12/1   |
 
 >[!IMPORTANT]
 > **A word about due dates**[^1]

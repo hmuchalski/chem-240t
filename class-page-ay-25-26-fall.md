@@ -10,6 +10,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 - [Expectations for presenters and audience (DEV)](https://)
 - [Homework objectives (open for comments)](https://docs.google.com/document/d/1J_wF_z_XXLZuzatvXZey-_UJLKd_NvF32POFBgyVeps/edit?usp=sharing)
+- [1-on-1 meeting sign-up (Google Calendar)](https://calendar.app.google/8Ts5MXX7AgPLdqtj9)
 
 ## Problem Sets
 
