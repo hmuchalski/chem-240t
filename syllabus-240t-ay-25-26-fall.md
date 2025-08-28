@@ -59,7 +59,7 @@ The goal of this course is not to cover all strategies and tactics used in organ
 
 ## Course workflow
 
-<!-- Part of doing chemistry is productive failure: You’ll try things that don’t work; learn something from that failure; and try something new that hopefully works better. After a while, you will figure it out, and come out with a much stronger understanding of what organic chemistry is, and why we insist on teaching it to future health professionals. -->
+Course workflow is based on a weekly cycle. Each week, you will be assigned a set of problems to work on before class (Class Prep). During class, you will present your solutions and discuss them with classmates. After class, you will write up selected problems as formal homework assignments. You may revise and resubmit some of your homework assignments. You may also submit some of your work to the Class Journal. All of your work will be collected and curated in your Portfolio, which will be the main evidence for your final grade.
 
 > [!NOTE]
 > Our class meetings are in the late afternoon when energy levels can be low and attention depleted. To reduce the risk of putting students to sleep, formal lectures will be reduced to minimum. Instead, this course will be ran according to the flipped learning model, an instructional philosophy optimized for active learning. Direct instruction is done before class meetings through structured activities (reading assignments, videos, class prep, etc.). Class time is repurposed for collaborative work and practice. This [video series](https://vimeo.com/showcase/8484250) highlights the basics of flipped learning.
