@@ -16,8 +16,8 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 - Problem Set 2 ([PDF](https://drive.google.com/file/d/1fQRZ1Ej3Yrd53tVlTeHclXPG6yGxRFY3/view?usp=sharing) or [CDXML](https://drive.google.com/uc?export=download&id=11uaSkjzcIt_ZRqNoPr-Am9c1MANCXOwz))
 - Problem Set 3 ([PDF](https://drive.google.com/file/d/1n33REW1DqAzaa2__Mc4X9Gr5avIjtG7b/view?usp=sharing) or [CDXML](https://drive.google.com/uc?export=download&id=11rCAGgDuCSDVakvufSd92td0ODZr2eKB))
-- Problem Set 4 ([PDF]() or [CDXML]()) 
-- Problem Set 5 ([PDF]() or [CDXML]())
+- Problem Set 4 ([PDF](https://drive.google.com/file/d/10cmXWfE5u2IahxpSzONFX4hYKi-eeiN-/view?usp=sharing) or [CDXML](https://drive.google.com/file/d/1S_8wTmskd__6T2Kyp6m6cTOUvi_2PzVr/view?usp=sharing)) 
+- Problem Set 5 ([PDF](https://drive.google.com/file/d/1hqN5n6uX8JxGuoTdy-NdygWWTH94eQb-/view?usp=sharing) or [CDXML](https://drive.google.com/file/d/1JNb1z2cwW_f7wpGVASYJirY8xnHwUWUl/view?usp=sharing))
 - Problem Set 6 ([PDF]() or [CDXML]())
 - Problem Set 7 ([PDF]() or [CDXML]())
 - Problem Set 8 ([PDF]() or [CDXML]())
