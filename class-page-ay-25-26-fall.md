@@ -4,7 +4,7 @@ permalink: /class-page-ay-25-26-fall.html
 author: "Instructor: Hubert Muchalski, Ph.D."
 --- -->
 
-# CHEM 240 Class Live Page (Fall AY 25-26)
+# CHEM 240 Class Page (2026 Fall)
 
 ## Key links
 
