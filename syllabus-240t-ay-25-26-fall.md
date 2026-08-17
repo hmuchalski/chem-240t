@@ -116,7 +116,7 @@ As an aspiring scientist you already know that good data comes from multiple mea
 
 Consistently meet almost all of the criteria (and **all boldface criteria**), missing at most 2 items:
 
-*Ways to show understanding or organic chemistry*
+*Ways to show understanding of organic chemistry*
 
 - **Write high quality solutions to synthetic problems that meet objectives (after revision, if needed).**
 - **Write several exemplary solutions throughout the semester and/or have several solutions accepted to the class journal.**
@@ -145,7 +145,7 @@ Instead of meeting each criterion consistently, you may meet them frequently: ex
 
 ### To earn a C
 
-Either meet *a few of the criteria consistently* (4--5 total, **and at least 2 boldface items** OR *meet many (10--12) criteria but less often*. Show meaningful progress on a few more.
+Either meet *a few of the criteria consistently* (4--5 total), **and at least 2 boldface items** OR *meet many (10--12) criteria but less often*. Show meaningful progress on a few more.
 
 Do a few things very well and consistently, or do many things fairly well but less often. For example, you might show exemplary work on most problems, but complete few or no presentations. Or, you could meet objectives on several problems (with no exemplary work), present several times, etc.
 
