@@ -1,28 +1,28 @@
-<!-- ---
-title: Class Page AY 25-26 Fall
-permalink: /class-page-ay-25-26-fall.html
+---
+title: CHEM 240T Class Page (2027 Fall)
+permalink: /class-page-ay-26-27-fall.html
 author: "Instructor: Hubert Muchalski, Ph.D."
---- -->
+---
 
-# CHEM 240 Class Page (2026 Fall)
+# CHEM 240T Class Page (2026 Fall)
 
 ## Key links
 
 - [Expectations for presenters and audience (DEV)](https://)
 - [Homework objectives (open for comments)](https://docs.google.com/document/d/1J_wF_z_XXLZuzatvXZey-_UJLKd_NvF32POFBgyVeps/edit?usp=sharing)
-- [1-on-1 meeting sign-up (Google Calendar)](https://calendar.app.google/8Ts5MXX7AgPLdqtj9)
+- [1-on-1 meeting sign-up (Google Calendar)](https://calendar.app.google/fCWM2LJCNbThzuXw8)
 
 ## Problem Sets
 
-- Problem Set 2 ([PDF][2p] or [CDXML][2c])
-- Problem Set 3 ([PDF][3p] or [CDXML][3c])
-- Problem Set 4 ([PDF][4p] or [CDXML][4c]) 
-- Problem Set 5 ([PDF][5p] or [CDXML][5c])
-- Problem Set 6 ([PDF][6p] or [CDXML][6c])
-- Problem Set 7 ([PDF][7p] or [CDXML][7c])
-- Problem Set 8 ([PDF][8p] or [CDXML][8c])
-- Problem Set 9 ([PDF][9p] or [CDXML][9c])
-- Problem Set 10 ([PDF][10p] or [CDXML][10c])
+<!-- - Week 2 Problem Set ([PDF][2p] or [CDXML][2c])
+- Week 3 Problem Set ([PDF][3p] or [CDXML][3c])
+- Week 4 Problem Set ([PDF][4p] or [CDXML][4c]) 
+- Week 5 Problem Set ([PDF][5p] or [CDXML][5c])
+- Week 6 Problem Set ([PDF][6p] or [CDXML][6c])
+- Week 7 Problem Set ([PDF][7p] or [CDXML][7c])
+- Week 8 Problem Set ([PDF][8p] or [CDXML][8c])
+- Week 9 Problem Set ([PDF][9p] or [CDXML][9c])
+- Week 10 Problem Set ([PDF][10p] or [CDXML][10c]) -->
 
 
 
@@ -81,11 +81,11 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 ## Class meeting notes
 
-### Wednesday, August 21
+### Monday, August 24
 
-We discussed the course syllabus and expectations. 
+<!-- 
 
-### Monday, August 26
+### Wednesday, August 26
 
 We discussed the first half of Problem Set 2. 
 
@@ -93,20 +93,6 @@ We discussed the first half of Problem Set 2.
 - Clarified the meaning of symbols and terminology used in organic synthesis such as the retrosynthetic arrow, how retrosynthetic schemes should be read, and the meaning of "regioselective" and "stereoselective".
 - We reviewed some of the common functional group interconversions (FGICs) organic halides, alcohols, and alkenes.
 
-<!-- ## Wednesday, August 28
+### Monday, August 31
 
-We discussed the second half of Problem Set 2.
-
-- 
-
-### Monday, September 1
-
-### Wednesday, September 3
-
-### Monday, September 8
-
-### Wednesday, September 10
-
-### Monday, September 15
-
-### Wednesday, September 17 -->
+### Wednesday, September 2 -->

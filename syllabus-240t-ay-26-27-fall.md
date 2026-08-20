@@ -92,8 +92,8 @@ That is also how due dates work in this class. Talk to me if you need an extensi
 If extenuating circumstances cause you to miss multiple assignments, or if you request extensions often, we will setup a meeting with graduate coordinator to discuss broader accommodations. I’ll be flexible, but I need to know the context so that we can find the best way moving forward. 
 
 
->[!IMPORTANT] One important limit on deadline extensions
-Class Preps are due before class so I can review the work and prepare for the class and for that reason, Class Preps must be submitted by the deadline. 
+> [!IMPORTANT] 
+> Class Preps are due before class so I can review the work and prepare for the class and for that reason, Class Preps must be submitted by the deadline. No extensions will be granted for Class Prep assignments. 
 
 ## Learning activities and assessments
 
@@ -103,8 +103,8 @@ Twice during the semester you will be asked to reflect on your progress and comp
 
 ## How to earn a grade in this course
 
->[!CAUTION]
->Grading in this course is different than you might be used to. Please read the following section carefully
+> [!CAUTION]
+> Grading in this course is different than you might be used to. Please read the following section carefully
 
 As a teacher and learner, I strongly believe that *learning is a function of many variables* and one of the more important ones is *time*. Grading your work based on a single point of data, such as a single quiz or test, is inaccurate, invalid, and perhaps unethical. 
 
@@ -152,7 +152,7 @@ Either meet *a few of the criteria consistently* (5--6 total), **and at least 2 
 
 Do a few things very well and consistently, or do many things fairly well but less often. For example, you might show exemplary work on most problems, but complete few or no presentations. Or, you could meet objectives on several problems (with no exemplary work), present several times, etc.
 
->[!NOTE]
+> [!NOTE]
 > This is a graduate-level course and grade B is the minimum expected (passing) grade. Please let me know if you are struggling to meet the criteria for a B. I will work with you to help you succeed.
 
 ## Class Prep and Research Notebook
@@ -177,8 +177,8 @@ Review the suggested reading and problems posted on Canvas. Read the text carefu
 - Use a pen. Don't erase errors and  mistakes! Sooner or later you will realize that your proposed synthesis leads to a dead end. If you realized the synthesis will not work, acknowledge, annotate, and try again. Don't erase! Write a comment explaining why you believe the reaction will not work and propose something better. These comments will help me understand your thinking process and will help you when you review your work later.
 - When done, scan and upload your Class Prep work to Canvas by the due date. In the “Comments” text box, indicate which problems (if any) you are volunteering to present in class. 
 
->[!NOTE] Collaboration with others
-> You are allowed to collaborate with other on Class Prep problems but you must credit the source of ideas and key insights. See Academic Integrity section below for details. 
+> [!NOTE] 
+> **Collaboration with others**. You are allowed to collaborate with other on Class Prep problems but you must credit the source of ideas and key insights. See Academic Integrity section below for details. 
 
 ## Presentations and the Class Journal
 
@@ -190,8 +190,8 @@ When you submit your Class Prep assignment, indicate which problems you are volu
 
 The goal of a presentation is to communicate your understanding of an idea in a helpful way, and to spark discussions that help everyone develop deeper understanding of the chemistry at hand. Correctness and clear communication are equally important. Mistakes and the discussions following them are some of the most valuable ways for everyone to learn! (See the section about grading for more details.)
 
->[!TIP] How to volunteer to present?
-> Before you submit your Class Prep assignment, leave a comment in the text box indicating which problems you are willing to present in class. 
+> [!NOTE] 
+> To volunteer to present leave a note in the Canvas comment text box indicating which problems you are willing to present in class. 
 
 ## Formal problem write-ups (ChemDraw homework)
 
@@ -206,11 +206,11 @@ You may revise and resubmit homework problems with some limitations:
 3. Work that received a mark of `non assessable` is ineligible for revision.
 4. The revision must include a reflection that explains why your work received a lower mark, what you did to improve (be specific!), and how you have demonstrated that in the revised version. 
 
->[!CAUTION]
+> [!CAUTION]
 > The reflection is and integral part of the revision. Without it, your revision is incomplete and won’t be marked. If your initial submission didn’t meet the objectives, there was a major reason and you must explain. In synthesis, even “small” things can have a major consequences. 
  
->[!TIP]
-Work on revisions on a regular basis. Talk to the professor to make sure you understand the feedback before submitting a revision. 
+> [!TIP]
+> Work on revisions on a regular basis. Talk to the professor to make sure you understand the feedback before submitting a revision. 
 
 ### Class Journal 
 
@@ -264,7 +264,7 @@ The student code defines academic misconduct as any action or behavior that misr
 
 **Consequences of academic dishonesty.** Evidence of dishonest behavior on any assignment will result, at a minimum, in not being able to use that work as evidence in your grade check-ins and final portfolio. In severe cases, the minimum penalty will be failure of the course. Peers who willingly assist others in acts of academic misconduct are equally guilty, and will suffer similar penalties. In all cases, violations will be considered according to APM 235 [http://www.fresnostate.edu/aps/documents/apm/235.pdf](http://www.fresnostate.edu/aps/documents/apm/235.pdf).
 
->[!NOTE] I want you to succeed!
+> [!NOTE]
 > I want you to develop a deep, personal understanding of the material we study so that you become a better student of mathematics who can go on to do well in all of your future endeavors. Every part of this course structure – including both collaborative work and restrictions on collaboration – are intended to help you with this. You will often struggle, and that’s intentional – struggle (and eventual success!) is essential to learning. Indeed, productively failing (and learning from it) is part of your final grade.
 
 In all aspects of the course, I am happy to discuss chemistry with you. I will never simply give you an answer, but I will offer direction and guidance that will assist you in coming up with a solution on your own. This is by far the most satisfying way to solve a problem, and the struggle is worth it.
