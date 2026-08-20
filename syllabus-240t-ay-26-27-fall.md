@@ -199,7 +199,7 @@ I will select problems from the weekly set and assign as a formal write-up. Your
 
 ### Revisions of homework assignments
 
-You may revise and resubmit homework problems with some limitations: 
+You may revise and resubmit homework problems with some limitations. Work on revisions on a regular basis. Talk to the professor to make sure you understand the feedback before submitting a revision. 
 
 1. You may submit one revision per week.
 2. The revision must be submitted within 1 week of receiving feedback.
@@ -208,11 +208,8 @@ You may revise and resubmit homework problems with some limitations:
 
 > [!CAUTION]
 > The reflection is and integral part of the revision. Without it, your revision is incomplete and won’t be marked. If your initial submission didn’t meet the objectives, there was a major reason and you must explain. In synthesis, even “small” things can have a major consequences. 
- 
-> [!TIP]
-> Work on revisions on a regular basis. Talk to the professor to make sure you understand the feedback before submitting a revision. 
 
-### Class Journal 
+## Class Journal 
 
 I will post a list of all problems that are open for Class Journal submissions and the list will grow as we cover more strategies and tactics. You may “claim” a problem and you will have 1 week to submit a draft solution. The formal write up may include short essays on a topic related to the problem. 
 
@@ -226,8 +223,10 @@ A portfolio is a carefully curated collection of work that tells a story of you 
 
 You can revise any work or other artifacts before including them in the portfolio. Your goal is to show how you’ve met the criteria for each grade by the end of the semester. If something confused you early on, but you’ve figured it out now, show me!
 
-==[Click here to read detailed Portfolio Instructions](https://docs.google.com/document/d/1rP99au6EcbWO2yZg4yg4mAY3Ydq2tPFSfN_BkvuFTj8/view)==
+→ [Click here to read the instructions on how to put together your portfolio](https://docs.google.com/document/d/1rP99au6EcbWO2yZg4yg4mAY3Ydq2tPFSfN_BkvuFTj8/view)
 
+> [!NOTE]
+> The instructions linked above are from 2025 edition of this course. They will be revised for this semester but the general principles will remain the same. You may use these instructions to start working on your portfolio, but check back for updates.
 
 ## Policies and disclaimers
 
