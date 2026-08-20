@@ -12,6 +12,24 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 - [1-on-1 meeting sign-up (Google Calendar)](https://calendar.app.google/fCWM2LJCNbThzuXw8)
 <!-- - [Expectations for presenters and audience (DEV)](https://) -->
 
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ0DMKWzoOVSfaYV9xnQz88wpU5CfS80jdfq7UsEIBLairoRPUPLOl_I-zGDsPCygfox6SOE7-p6?gv=true',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+
 ## Problem Sets
 
 <!-- - Week 2 Problem Set ([PDF][2p] or [CDXML][2c])
