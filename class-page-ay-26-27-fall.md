@@ -14,6 +14,8 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 ## Problem Sets
 
+- Problem Set 01 ([PDF][ps1] or [CDXML][ps1c])
+
 <!-- - Week 2 Problem Set ([PDF][2p] or [CDXML][2c])
 - Week 3 Problem Set ([PDF][3p] or [CDXML][3c])
 - Week 4 Problem Set ([PDF][4p] or [CDXML][4c]) 
@@ -27,6 +29,9 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 ## Class meeting notes
 
 ### Monday, August 24
+
+- Reviewed the Brønsted-Lowry acid-base theory and how it applies to organic chemistry. W learned a process of selecting a base for deprotonating different types of acids (e.g., alcohols, alkynes, amines, etc.).
+- We practiced classifying reactions types (e.g., substitution, elimination, addition, etc.) as well as identifying whether a reaction is chemoselective, regioselective, or stereoselective.
 
 <!-- 
 
@@ -76,23 +81,5 @@ We discussed the first half of Problem Set 2.
 [10]: https://youtu.be/R3PLq3dOqv4 "Nucleophiles and Electrophiles: Crash Course Organic Chemistry #12"
 [11]: https://youtu.be/j04zMFwDeDU "Alcohols, Ethers, and Epoxides: Crash Course Organic Chemistry"
 
-[wk2p]: https://drive.google.com/file/d/1fQRZ1Ej3Yrd53tVlTeHclXPG6yGxRFY3/view?usp=sharing
-[wk2c]: https://drive.google.com/uc?export=download&id=11uaSkjzcIt_ZRqNoPr-Am9c1MANCXOwz
-[wk3p]: https://drive.google.com/file/d/1n33REW1DqAzaa2__Mc4X9Gr5avIjtG7b/view?usp=sharing
-[wk3c]: https://drive.google.com/uc?export=download&id=11rCAGgDuCSDVakvufSd92td0ODZr2eKB
-[wk4p]: https://drive.google.com/file/d/10cmXWfE5u2IahxpSzONFX4hYKi-eeiN-/view?usp=sharing
-[wk4c]: https://drive.google.com/uc?export=download&id=1S_8wTmskd__6T2Kyp6m6cTOUvi_2PzVr
-[wk5p]: https://drive.google.com/file/d/1hqN5n6uX8JxGuoTdy-NdygWWTH94eQb-/view?usp=sharing
-[wk5c]: https://drive.google.com/uc?export=download&id=1JNb1z2cwW_f7wpGVASYJirY8xnHwUWUl
-[wk6p]: https://drive.google.com/file/d/168RA0w4Yq00Qz64EZSkgX6V2WRJvlBja/view?usp=sharing
-[wk6c]: https://drive.google.com/uc?export=download&id=1IyWoUDpmNtD4aCnZYxDKlSMQMd0y6YeF
-[wk7p]: https://drive.google.com/file/d/1vCMIxmGsuND1vVY7LLHZ1Jb_h_8xkI6S/view?usp=sharing
-[wk7c]: https://drive.google.com/uc?export=download&id=1G6I8NKgT6CUSF0jOJ49MivCDpH_9hfom
-[wk8p]: https://drive.google.com/file/d/1CWIiIUv8NIIAqKoYRaKObMRqu_x0CN6S/view?usp=sharing
-[wk8c]: https://drive.google.com/uc?export=download&id=1re8sc7jbR-cfhJMaANvUxwjHpiPRE-xX
-[wk9p]: https://drive.google.com/file/d/1yUiL8OyF7iqrvl8xLNRDawjdtJDDwu7h/view?usp=sharing
-[wk9c]: https://drive.google.com/uc?export=download&id=1wfrmWQYEkMaxEswaYiiS0i9nahWG7Jqi
-[wk10p]: https://drive.google.com/file/d/15TKkoAsSfR4GxRd764fbqbGsBYh1j5R5/view?usp=sharing
-[wk10c]: https://drive.google.com/uc?export=download&id=19YyYnmsc8U8zs09wLRVCXAkZyeH2TrrF
-[wk11p]: 
-[wk11c]:
+[ps1]: https://drive.google.com/file/d/1rzPDSfCup1E-2f9W2JAB1BZfo7Si5udW/view?usp=sharing
+[ps1c]: https://drive.google.com/file/d/1NRfAXv3HSMeSPA_NhLLHfULrXDhqNRyZ/view?usp=sharing
