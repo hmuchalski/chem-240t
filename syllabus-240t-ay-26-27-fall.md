@@ -1,17 +1,17 @@
 # Course Syllabus (CHEM 240T)
 
-| Course Name  | Strategies and Tactics in Organic Synthesis                   |
-| :----------- | :------------------------------------------------------------ |
-| Semester     | 2026 Fall                                                     |
-| Units        | 3                                                             |
-| Department   | Chemistry and Biochemistry                                    |
-| Time         | MW 5:15–6:30 pm                                               |
-| Location     | Science 1 room 143                                            |
-| Instructor   | Dr. Hubert Muchalski                                          |
-| Email        | hmuchalski@mail.fresnostate.edu                               |
-| Office phone | 559-278-2711                                                  |
-| Office       | Science 1, room 352                                           |
-| Office hours | Tue/Thu  1-3 pm or by [appointment][gcal-apptmt] |
+| Course Name  | Strategies and Tactics in Organic Synthesis      |
+| :----------- | :----------------------------------------------- |
+| Semester     | 2026 Fall                                        |
+| Units        | 3                                                |
+| Department   | Chemistry and Biochemistry                       |
+| Time         | MW 5:15–6:30 pm                                  |
+| Location     | Science 1 room 242                               |
+| Instructor   | Dr. Hubert Muchalski                             |
+| Email        | hmuchalski@mail.fresnostate.edu                  |
+| Office phone | 559-278-2711                                     |
+| Office       | Science 1, room 352                              |
+| Office hours | Mon/Wed  1-3 pm or by [appointment][gcal-apptmt] |
 
 [gcal-apptmt]: https://calendar.app.google/fCWM2LJCNbThzuXw8
 
