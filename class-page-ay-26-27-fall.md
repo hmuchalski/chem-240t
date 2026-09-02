@@ -32,6 +32,7 @@ author: "Instructor: Hubert Muchalski, Ph.D."
 
 - Reviewed the Brønsted-Lowry acid-base theory and how it applies to organic chemistry. W learned a process of selecting a base for deprotonating different types of acids (e.g., alcohols, alkynes, amines, etc.).
 - We practiced classifying reactions types (e.g., substitution, elimination, addition, etc.) as well as identifying whether a reaction is chemoselective, regioselective, or stereoselective.
+<!-- - Sam made an important point that hydrobromination of alkenes is chemoselective in respect to the aromatic ring (which doesn't react) but not regioselective (which carbon of the alkene gets the bromine). -->
 
 <!-- 
 
