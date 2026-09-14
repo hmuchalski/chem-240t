@@ -69,17 +69,17 @@ Course workflow is based on a weekly cadence of Problem Sets. First, you will st
 | Problem Set | CP due | HW due |
 | :---------- | ------ | ------ |
 | PS1         | 8/31   | 9/9    |
-| PS2         | 9/7    | 9/16   |
-| PS3         | 9/14   | 9/23   |
-| PS4         | 9/21   | 9/30   |
-| PS5         | 9/28   | 10/7   |
-| PS6         | 10/5   | 10/14  |
-| PS7         | 10/12  | 10/21  |
-| PS8         | 10/19  | 10/28  |
-| PS9         | 10/26  | 11/4   |
-| PS10        | 11/2   | 11/11  |
-| PS11        | 11/9   | 11/18  |
-| PS12        | 11/16  | 11/30  |
+| PS2         | 9/7    | 9/23   |
+| PS3         | 9/21   | 9/30   |
+| PS4         | 9/28   | 10/7   |
+| PS5         | 10/5   | 10/14  |
+| PS6         | 10/12  | 10/21  |
+| PS7         | 10/19  | 10/28  |
+| PS8         | 10/26  | 11/4   |
+| PS9         | 11/2   | 11/11  |
+| PS10        | 11/9   | 11/18  |
+| PS11        | 11/16  | 11/30  |
+| PS12        | 11/23  | 12/7   |
 
 ## Due dates[^1]
 
@@ -129,7 +129,7 @@ Consistently meet almost all of the criteria (and **all boldface criteria**), mi
 *Ways to show engagement with class*
 
 - **Complete assigned pre-class work with good-faith effort and before the deadline.**
-- **Produce work that shows the students is trying to make sense of new content (synthetic disconnections, reactions, and mechanisms), trying multiple approaches, include failed attempts, and comments on the thinking process (even if only partially correct).**
+- **Produce work that shows you are trying to make sense of new content, trying multiple approaches, including failed attempts, and comments on the thinking process (even if only partially correct)**
 - **Volunteer to present your Class Prep work.**
 - **Volunteer to present a total synthesis case study.**
 - Actively participate in discussions (this could take many forms).
@@ -217,14 +217,13 @@ I will review your submission and choose whether to accept it. Journal problems 
 
 ## Portfolio
 
-A portfolio is a carefully curated collection of work that tells a story of you as a scientist and student of organic synthesis from the first day of class to the last. Your goal is to make a convincing case that you have met the criteria for the final grade you expect. Your portfolio is due on the last day of instruction.
+A portfolio is a carefully curated collection of work that tells a story of you as a scientist and student of organic synthesis from the first day of class to the last. There will be two assignments during the semester that will ask you to reflect on your progress and compare it to the criteria for grades in our course. 
 
-You can revise any work or other artifacts before including them in the portfolio. Your goal is to show how you’ve met the criteria for each grade by the end of the semester. If something confused you early on, but you’ve figured it out now, show me!
+### Final Portfolio
+
+Your goal is to make a convincing case that you have met the criteria for the final grade you expect. Your portfolio is due on the last day of instruction.You can revise any work or other artifacts before including them in the portfolio. Your goal is to show how you’ve met the criteria for each grade by the end of the semester. If something confused you early on, but you’ve figured it out now, show me!
 
 → [Click here to read the instructions on how to put together your portfolio](https://docs.google.com/document/d/1rP99au6EcbWO2yZg4yg4mAY3Ydq2tPFSfN_BkvuFTj8/view)
-
-> [!NOTE]
-> The instructions linked above are from 2025 edition of this course. They will be revised for this semester but the general principles will remain the same. You may use these instructions to start working on your portfolio, but check back for updates.
 
 ## Policies and disclaimers
 
